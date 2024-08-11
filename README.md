@@ -7,7 +7,7 @@
 
 - 🌱 我正在學習 **algorithm and docker**
 
-- 💬 Ask me about **app、algorithm、crawler**
+- 💬 問我有關 **app、algorithm、crawler**
 
 - ⚡ Fun fact **希望能幫助有需要的人**
 
