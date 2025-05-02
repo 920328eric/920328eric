@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=920328eric" alt="920328eric" /></a> </p>
 
-- 🌱 我正在學習 **algorithm and docker**
+- 🌱 我正在學習 **Computer vision**
 
-- 💬 問我有關 **app、algorithm、crawler**
+- 💬 問我有關 **app、Computer vision、crawler**
 
 - ⚡ Fun fact **希望能幫助有需要的人**
 
