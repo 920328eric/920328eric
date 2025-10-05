@@ -1,5 +1,5 @@
 <h1 align="center">您好 👋 ,我是 陳重宇</h1>
-<h3 align="center">我是在嘉義讀書的大學生</h3>
+<h3 align="center">我是在嘉義讀書的學生</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=920328eric&label=Profile%20views&color=0e75b6&style=flat" alt="920328eric" /> </p>
 
