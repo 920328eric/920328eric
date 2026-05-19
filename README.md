@@ -1,15 +1,6 @@
-<h1 align="center">您好 👋 ,我是 陳重宇</h1>
-<h3 align="center">我是在嘉義讀書的學生</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=920328eric&label=Profile%20views&color=0e75b6&style=flat" alt="920328eric" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=920328eric" alt="920328eric" /></a> </p>
-
-- 🌱 我正在學習 **Computer vision**
-
-- 💬 問我有關 **app、Computer vision、crawler**
-
-- ⚡ Fun fact **希望能幫助有需要的人**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
